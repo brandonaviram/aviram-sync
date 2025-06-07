@@ -1,13 +1,11 @@
 # Aviram Sync 📸
 
-> Backup your camera's memory card and organize photos/videos by trip - no tech skills needed!
+> Backup your camera's memory card and organize photos/videos by trip
 
 ## Super Easy Setup (5 minutes)
 
 ### Step 1: Open Terminal
-- **Mac**: Press `Cmd + Space`, type "Terminal", press Enter
-- **Windows**: Press `Win + R`, type "cmd", press Enter  
-- **Linux**: Press `Ctrl + Alt + T`
+Press `Cmd + Space`, type "Terminal", press Enter
 
 ### Step 2: Download the Tool
 Copy and paste this into Terminal, then press Enter:
@@ -75,7 +73,7 @@ TOKYO VACATION DECEMBER 2025/
 **Not finding your memory card?**
 - Run: `python3 aviram-sync.py --debug` to see what it finds
 
-**Still stuck?** [Ask for help here](https://github.com/brandonaviram/aviram-sync/issues) - we're friendly!
+**Still stuck?** [Open an issue here](https://github.com/brandonaviram/aviram-sync/issues)
 
 ---
 
